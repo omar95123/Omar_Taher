@@ -2,7 +2,9 @@
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
-- flutter developer
+- I'm a Software Engineer
+- Flutter developer
+
 <hr>
 
 
