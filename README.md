@@ -9,16 +9,6 @@
 
 
 
-<h2> Contact with me on </h2>
-
-
-
-- facebook : https://www.facebook.com/omar.taher.5817
-- linkedIn : https://www.linkedin.com/in/omar-taher-80a94421b/
-- whatsApp for bussines : http://Wa.me/01098822623
-- email : omartaher330@gmail.com
-
-
 
 
  
